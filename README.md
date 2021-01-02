@@ -1,24 +1,8 @@
 # README
+大竹のポートフォリオ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1.開発環境の作り方
 
-Things you may want to cover:
+2.利用しているバージョンや外部ツールの説明
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3.サービスの説明
